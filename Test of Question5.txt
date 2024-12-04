@@ -1,0 +1,37 @@
+[?2004l
+s: abc
+t: def
+k: 4
+Return ConcatRemove: No
+
+s: abc
+t: def
+k: 5
+Return ConcatRemove: No
+
+s: abc
+t: def
+k: 6
+Return ConcatRemove: Yes
+
+s: abc
+t: def
+k: 7
+Return ConcatRemove: Yes
+
+s1: blablablabla
+t1: blablabcde
+k1: 7
+Return ConcatRemove: No
+
+s1: blablablabla
+t1: blablabcde
+k1: 8
+Return ConcatRemove: Yes
+
+s1: blablablabla
+t1: blablabcde
+k1: 9
+Return ConcatRemove: Yes
+
+[?2004h
